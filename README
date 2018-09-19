@@ -3,5 +3,5 @@ git Instruction
 1. git status
 2. cp -r <route>
 3. git add .
-4. git commit -m <messages>
+4. git commit -m "messages"
 5. git push
