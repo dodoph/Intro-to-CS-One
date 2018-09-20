@@ -1,6 +1,4 @@
 /**********************************************
-**Author: Qiaojie Tang
-**Date: 05-02-2018
 **Description: Implementation file of Taxicab
 ***********************************************/
 #include "Taxicab.hpp"
